@@ -88,17 +88,3 @@ $ python receive.py
 - **에러 처리**: 네트워크 연결 실패나 큐 선언 오류에 대한 예외 처리를 추가할 수 있습니다.
 
 ---
-
-## 📜 라이선스
-이 프로젝트는 [MIT 라이선스](https://opensource.org/licenses/MIT)를 따릅니다.
-
----
-
-위 템플릿을 기반으로 README 파일을 작성하면, 프로젝트의 목적과 사용법을 명확히 전달할 수 있습니다! 😊
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/46484914/c4b3c855-2f95-440c-b306-44e8d1ca4675/receive.py
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/46484914/a10a5700-a73d-4f4b-baef-0661538c2df5/send.py
-
----
-Perplexity로부터의 답변: pplx.ai/share
